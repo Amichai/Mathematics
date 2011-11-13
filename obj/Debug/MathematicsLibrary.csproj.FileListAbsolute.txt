@@ -1,0 +1,5 @@
+c:\users\amichai\documents\visual studio 2010\Projects\MathematicsLibrary\MathematicsLibrary\bin\Debug\MathematicsLibrary.dll
+c:\users\amichai\documents\visual studio 2010\Projects\MathematicsLibrary\MathematicsLibrary\bin\Debug\MathematicsLibrary.pdb
+c:\users\amichai\documents\visual studio 2010\Projects\MathematicsLibrary\MathematicsLibrary\obj\Debug\ResolveAssemblyReference.cache
+c:\users\amichai\documents\visual studio 2010\Projects\MathematicsLibrary\MathematicsLibrary\obj\Debug\MathematicsLibrary.dll
+c:\users\amichai\documents\visual studio 2010\Projects\MathematicsLibrary\MathematicsLibrary\obj\Debug\MathematicsLibrary.pdb
